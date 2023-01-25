@@ -5,6 +5,8 @@ Junior Fullstack Developer, looking for my next position. Skilled in: React , Ja
 
 
 Languages I Use:
+![image](https://user-images.githubusercontent.com/97187992/214541994-fd6540ad-4678-4a4c-ab92-93832cd26148.png)
+
 html5 css3 javascript typescript react react-Native
 
 Tools I Use:
