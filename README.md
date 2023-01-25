@@ -1,6 +1,6 @@
-<h1>My Name is Gili<h1/>
+<h1>My Name is Gili</h1>
 <h2>I'm a Junior Web Developer and
-I'm looking for my next position. Skilled in: React.js, JavaScript/TypeScript, HTML/CSS/SCSS, Node.js, Express.js, BEM Model and MongoDB, MySQL, and React-Native<h2/>
+I'm looking for my next position. Skilled in: React.js, JavaScript/TypeScript, HTML/CSS/SCSS, Node.js, Express.js, BEM Model and MongoDB, MySQL, and React-Native</h2>
 
 <div align="center">
   <h3>Languages I Use:</h3>
