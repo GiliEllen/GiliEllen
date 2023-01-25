@@ -1,12 +1,6 @@
-<h2>
-  Hello, I’m Gili 
-<h2/>
+<h2>Hello, I’m Gili <h2/>
+  <h3>Junior Fullstack Developer, looking for my next position. Skilled in: React.js, JavaScript/TypeScript, HTML/CSS/SCSS, Node.js, Express.js, BEM Model and MongoDB, MySQL, and React-Native<h3/>
 
-  <h3>
-Junior Fullstack Developer, looking for my next position. Skilled in: React.js, JavaScript/TypeScript, HTML/CSS/SCSS, Node.js, Express.js, BEM Model and MongoDB, MySQL, and React-Native
-    <h3/>
-
- 
 <div align="center">
   <h3>Languages I Use:</h3>
   <p>
